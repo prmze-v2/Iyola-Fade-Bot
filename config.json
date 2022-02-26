@@ -1,0 +1,9 @@
+{
+    "Comment": "Deafult MySQL Port 3306, if this is an inconvenience to you then tough shit. --Remove me.",
+    "Token": "",
+    "Prefix": "!",
+    "MySQL-Host": "127.0.0.1",
+    "MySQL-Database": "ibot",
+    "MySQL-Username": "root",
+    "MySQL-Password": ""
+}
